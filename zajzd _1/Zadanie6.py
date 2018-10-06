@@ -17,3 +17,5 @@ output2 = f"""Większa od 10: {a}
 Mniejsza lub równa 15: {b}
 Podzielna przez 2: {c}"""
 print(output2)
+
+#
