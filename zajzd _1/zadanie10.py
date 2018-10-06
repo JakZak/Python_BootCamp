@@ -17,3 +17,5 @@ elif c=="**":
 else:
     print("Wybrałeś jakieś dziwne rzeczy, czytaj uważnie")
     raise ValueError("Zła wartość")
+
+#testy gita
