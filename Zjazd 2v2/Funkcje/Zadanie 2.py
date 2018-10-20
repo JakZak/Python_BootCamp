@@ -1,4 +1,5 @@
 napis = "kubasasasdfdsf"
+napis = napis.lower
 
 def wiecej_niz(napis, prog):
     litery = {}
@@ -22,3 +23,17 @@ def test_wiecej_niz_dla_nie_pustego_napisu():
 #
 
 #roywiayanie prowadyacego
+def wiecej_niz(napis, prog):
+    litery = {}
+    wynik = set()
+    for litera in napis:
+        litery[litera] = litery.get(litera, 0) +1
+        if napis.count(litera)>prog:
+            wynik.add(litera)
+    print(wynik)
+wiecej_niz('sadasdadasdaffdfdf', 3)
+
+#Opcja jeszcze bardziej krotka
+def wiecej_niz(napis, prog):
+    return {znak for znak in napis if napis.count(znak) > prog}
+
