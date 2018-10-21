@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a018621-76ca-4837-9eee-14b2b9e68573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/Zadanie4_zjazd1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/pole_trapezu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/LAMBDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,40 +29,52 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="5" />
-          <entry key="py" value="83" />
+          <entry key="py" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="83" />
+          <entry key="Python" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="297" />
           <entry key="gitignore" value="35" />
-          <entry key="py" value="26317" />
+          <entry key="py" value="28016" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="26614" />
+          <entry key="Python" value="28313" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="221">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
               <folding>
-                <marker date="1540127528773" expanded="true" signature="118:119" ph="..." />
-                <marker date="1540127528773" expanded="true" signature="118:258" ph="..." />
+                <marker date="1540132832003" expanded="true" signature="61:245" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/LAMBDA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <marker date="1540132012774" expanded="true" signature="25:30" ph="..." />
+                <marker date="1540132012774" expanded="true" signature="664:669" ph="..." />
               </folding>
             </state>
           </provider>
@@ -136,6 +142,8 @@
         <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" />
         <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py" />
         <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/LAMBDA.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie7.py" />
       </list>
     </option>
   </component>
@@ -199,7 +207,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Zadanie4">
+  <component name="RunManager" selected="Python.Zadanie7">
+    <configuration name="LAMBDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/LAMBDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Zadanie4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadanie_dodatkowe1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,27 +313,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie5_zjazd1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="PyTest przylasy" type="tests" factoryName="py.test">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,19 +346,19 @@
     <list>
       <item itemvalue="Python tests.Unnamed" />
       <item itemvalue="Python tests.PyTest przylasy" />
-      <item itemvalue="Python.zadanie5_zjazd1" />
-      <item itemvalue="Python.Zadanie_dodatkowe1" />
       <item itemvalue="Python.Zadanie_dodatkowe_2" />
       <item itemvalue="Python.szukanie_skarbu" />
       <item itemvalue="Python.Zadanie4" />
+      <item itemvalue="Python.LAMBDA" />
+      <item itemvalue="Python.Zadanie7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Zadanie7" />
+        <item itemvalue="Python.LAMBDA" />
         <item itemvalue="Python.Zadanie4" />
         <item itemvalue="Python.szukanie_skarbu" />
         <item itemvalue="Python.Zadanie_dodatkowe_2" />
-        <item itemvalue="Python.Zadanie_dodatkowe1" />
-        <item itemvalue="Python.zadanie5_zjazd1" />
       </list>
     </recent_temporary>
   </component>
@@ -802,11 +810,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="299">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
-            <marker date="1540127528773" expanded="true" signature="118:119" ph="..." />
-            <marker date="1540127528773" expanded="true" signature="118:258" ph="..." />
+            <marker date="1540131038393" expanded="true" signature="370:407" ph="..." />
+            <marker date="1540131038393" expanded="true" signature="465:472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <marker date="1540132832003" expanded="true" signature="61:245" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/LAMBDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <marker date="1540132012774" expanded="true" signature="25:30" ph="..." />
+            <marker date="1540132012774" expanded="true" signature="664:669" ph="..." />
           </folding>
         </state>
       </provider>
