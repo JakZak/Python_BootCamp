@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a018621-76ca-4837-9eee-14b2b9e68573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/Zadanie4_zjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/pole_trapezu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,131 +22,53 @@
     <session id="-719236039">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="5" />
-          <entry key="py" value="37" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="37" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="152" />
+          <entry key="Python Console" value="297" />
           <entry key="gitignore" value="35" />
-          <entry key="py" value="19556" />
+          <entry key="py" value="26317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="19708" />
+          <entry key="Python" value="26614" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Słownik.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="29" selection-start-line="25" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadnie 10.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 11.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Przyklady.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py">
+        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="37" selection-end-column="63" />
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
-                <marker date="1540046257208" expanded="true" signature="327:331" ph="..." />
-                <marker date="1540046257208" expanded="true" signature="463:523" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding>
-                <marker date="1540042527363" expanded="true" signature="30:147" ph="..." />
-                <marker date="1540042527363" expanded="true" signature="197:202" ph="..." />
-                <marker date="1540042527363" expanded="true" signature="351:352" ph="..." />
+                <marker date="1540127528773" expanded="true" signature="118:119" ph="..." />
+                <marker date="1540127528773" expanded="true" signature="118:258" ph="..." />
               </folding>
             </state>
           </provider>
@@ -198,6 +128,14 @@
         <option value="$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 1.py" />
         <option value="$PROJECT_DIR$/Zjazd 2v2/Zadnie 10.py" />
         <option value="$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py" />
+        <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/pole_trapezu.py" />
+        <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/Zadanie4_zjazd1.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe_2.py" />
+        <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" />
+        <option value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py" />
+        <option value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py" />
       </list>
     </option>
   </component>
@@ -215,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,22 +164,27 @@
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Przerabianie_zadan_na_funkcje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Zjazd 2v2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Zjazd 2v2" type="462c0819:PsiDirectoryNode" />
-              <item name="Funkcje" type="462c0819:PsiDirectoryNode" />
+              <item name="Zjazd2_dzien2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -255,8 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Zadanie 2">
-    <configuration name="Zadanie 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Zadanie4">
+    <configuration name="Zadanie4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zadnie 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Zadanie_dodatkowe1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +229,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zadnie 10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie_dodatkowe_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="szukanie_skarbu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zadanie5_zjazd1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,66 +320,37 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Unnamed" type="tests" factoryName="py.test">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\kurs\PycharmProjects\bootcamp\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Funkcje" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zjazd 2v2/Funkcje" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python tests.Unnamed" />
       <item itemvalue="Python tests.PyTest przylasy" />
-      <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej" />
-      <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej" />
-      <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej (1)" />
-      <item itemvalue="Python.Zadanie 2" />
-      <item itemvalue="Python.Zadnie 10" />
+      <item itemvalue="Python.zadanie5_zjazd1" />
+      <item itemvalue="Python.Zadanie_dodatkowe1" />
+      <item itemvalue="Python.Zadanie_dodatkowe_2" />
+      <item itemvalue="Python.szukanie_skarbu" />
+      <item itemvalue="Python.Zadanie4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Zadanie 2" />
-        <item itemvalue="Python.Zadnie 10" />
-        <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej (1)" />
-        <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej" />
-        <item itemvalue="Python tests.pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej" />
+        <item itemvalue="Python.Zadanie4" />
+        <item itemvalue="Python.szukanie_skarbu" />
+        <item itemvalue="Python.Zadanie_dodatkowe_2" />
+        <item itemvalue="Python.Zadanie_dodatkowe1" />
+        <item itemvalue="Python.zadanie5_zjazd1" />
       </list>
     </recent_temporary>
   </component>
@@ -390,20 +368,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_Zadanie_1_test_czy_jest_pierwsza_dla_liczby_pierwszej - 2018.10.20 at 15h 30m 25s.xml">
-      <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej" configurationId="tests" />
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 32m 53s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_Zadanie_1_test_czy_jest_pierwsza_dla_liczby_pierwszej - 2018.10.20 at 15h 31m 20s.xml">
-      <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_pierwszej" configurationId="tests" />
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 33m 04s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_Zadanie_1_test_czy_jest_pierwsza_dla_liczby_nie_pierwszej - 2018.10.20 at 15h 32m 50s.xml">
-      <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej" configurationId="tests" />
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 34m 03s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_Zadanie_1_test_czy_jest_pierwsza_dla_liczby_nie_pierwszej_(1) - 2018.10.20 at 15h 33m 05s.xml">
-      <configuration name="pytest for Zadanie 1.test_czy_jest_pierwsza_dla_liczby_nie_pierwszej (1)" configurationId="tests" />
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 34m 57s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="PyTest_przylasy - 2018.10.20 at 16h 20m 36s.xml">
-      <configuration name="PyTest przylasy" configurationId="tests" />
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 40m 15s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 40m 46s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 40m 56s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 41m 08s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Zadanie4_zjazd1_test_paragon - 2018.10.21 at 11h 42m 26s.xml">
+      <configuration name="pytest for Zadanie4_zjazd1.test_paragon" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Zadanie4_zjazd1_py - 2018.10.21 at 11h 42m 35s.xml">
+      <configuration name="pytest in Zadanie4_zjazd1.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -422,6 +415,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
@@ -476,24 +470,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/pole_trapezu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zajzd _1/pelnoletnosc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -504,49 +484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_BootCamp/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zajzd _1/TETSY.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -554,87 +492,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_13(dowolne).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Napisy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -659,16 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie1.py" />
     <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -682,21 +534,6 @@
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <marker date="1540042527363" expanded="true" signature="30:147" ph="..." />
-            <marker date="1540042527363" expanded="true" signature="197:202" ph="..." />
-            <marker date="1540042527363" expanded="true" signature="351:352" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Przyklady.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -717,11 +554,259 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="37" selection-end-column="63" />
+        <state relative-caret-position="475">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <marker date="1540046257208" expanded="true" signature="327:331" ph="..." />
-            <marker date="1540046257208" expanded="true" signature="463:523" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Przyklady.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zadanie 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_13(dowolne).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Funkcje/Zadanie 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <marker date="1540042527363" expanded="true" signature="30:147" ph="..." />
+            <marker date="1540042527363" expanded="true" signature="197:202" ph="..." />
+            <marker date="1540042527363" expanded="true" signature="351:352" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Napisy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/pole_trapezu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/pole_trapezu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1540113472913" expanded="true" signature="26:56" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zajzd _1/Zadanie5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1540112388054" expanded="true" signature="52:57" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd_2/Zadanie_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="49" column="13" lean-forward="true" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1540122271385" expanded="true" signature="172:177" ph="..." />
+            <marker date="1540122271385" expanded="true" signature="269:274" ph="..." />
+            <marker date="1540122271385" expanded="true" signature="269:419" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie_dodatkowe1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1540117948033" expanded="true" signature="201:206" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/Zadanie4_zjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1540114945968" expanded="true" signature="77:135" ph="..." />
+            <marker date="1540114945968" expanded="true" signature="210:215" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/zadanie5_zjazd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1540116630585" expanded="true" signature="24:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Przerabianie_zadan_na_funkcje/szukanie_skarbu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <marker date="1540126231508" expanded="true" signature="962:1216" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zjazd 2v2/Zjazd2_dzien2/Zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1540127528773" expanded="true" signature="118:119" ph="..." />
+            <marker date="1540127528773" expanded="true" signature="118:258" ph="..." />
           </folding>
         </state>
       </provider>
