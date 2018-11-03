@@ -8,7 +8,7 @@ class Employee:
         self.nadgodziny = 0
 
     def register_time(self, time):
-        self.time = time
+        self.time += time
         self.nadgodziny = self.time - 8
 
     def pay_salary(self):
@@ -49,3 +49,9 @@ def test_wyplacania():
     assert employee.pay_salary() == 500.0
     assert employee.pay_salary() == 0
 
+def test_nadgodziny__kilka_wpisow():
+    employee = Employee('Jan', 'Nowak', 100.0)
+    employee.register_time(5)
+    employee.register_time(5)
+    assert employee.pay_salary() == 8*100.0 + 2*2*100.0
+    assert employee.pay_salary() == 1200.0
