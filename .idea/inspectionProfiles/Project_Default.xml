@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="dict.add" />
+          <option value="Zjazd_3.Zadanie_3.pay_salary.to_pay" />
         </list>
       </option>
     </inspection_tool>
