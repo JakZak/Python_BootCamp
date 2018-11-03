@@ -32,42 +32,108 @@ class PremiumEmployee(Employee):
         to_pay = super().pay_salary()
         return to_pay + self.bonus
 
-def test_premiumemployee_z_bonusem():
-    employee = PremiumEmployee('Jan', 'Nowak', 100.0)
+#Utworz klase comapny ktora inicjaluzuje sie nazwa.
+#employee = Employee('Jan', 'Nowak', 100.0)
+#employee.register_time(5)
+#>>>google = company.('google')
+#>>>google.add_employee(employee)
+#>>>google.size()
+#1
+#>>>google.pay_all_salary()
+#500
+#>>>google.pay_all_salary()
+#0
+#>>>employee2 = Employee('Krzysztof', 'Nowak', 200.0)
+#>>>employee.register_time(5)
+#>>>google.add_employee(empployee)
+#>>>google.pay_all_salary()
+#1000
+
+class company:
+
+    def __init__(self, company):
+        self.company = company
+        self.company_size = 0
+
+    def add_employee(self, employee):
+        for company in self.company:
+            company = set()
+            company.add(employee)
+    def company_size(self):
+        self.company_size = len(self.company)
+
+    def pay_all_salary(self):
+        pass
+
+
+    # @classmethod
+    # def company_size(cls):
+    #      cls.size_company += 1
+
+#Utworz klase comapny ktora inicjaluzuje sie nazwa.
+def test_company():
+    employee = Employee('Jan', 'Nowak', 100.0)
     employee.register_time(5)
-    employee.give_bonus(1000.0)
-    assert employee.pay_salary() == 1500.0
+    google = company('google')
+    google.add_employee(employee)
+    assert google.size() == 1
+    assert
+1
+>>>google.pay_all_salary()
+500
+>>>google.pay_all_salary()
+0
+>>>employee2 = Employee('Krzysztof', 'Nowak', 200.0)
+>>>employee.register_time(5)
+>>>google.add_employee(empployee)
+>>>google.pay_all_salary()
+1000
 
-def test_pracownik():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    assert employee.imie == 'Jan'
-    assert employee.nazwisko == 'Nowak'
-    assert employee.stawka == 100.0
 
-def test_Employee():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    employee.register_time(5)
-    assert employee.pay_salary() == 500.0
 
-def test_bezgodzin():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    assert employee.pay_salary() == 0.0
 
-def test_nadgodziny():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    employee.register_time(10)
-    assert employee.pay_salary() == 8*100.0 + 2*2*100.0
-    assert employee.pay_salary() == 1200.0
 
-def test_wyplacania():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    employee.register_time(5)
-    assert employee.pay_salary() == 500.0
-    assert employee.pay_salary() == 0
 
-def test_nadgodziny__kilka_wpisow():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    employee.register_time(5)
-    employee.register_time(5)
-    assert employee.pay_salary() == 8*100.0 + 2*2*100.0
-    assert employee.pay_salary() == 1200.0
+
+
+
+
+# def test_premiumemployee_z_bonusem():
+#     employee = PremiumEmployee('Jan', 'Nowak', 100.0)
+#     employee.register_time(5)
+#     employee.give_bonus(1000.0)
+#     assert employee.pay_salary() == 1500.0
+#
+# def test_pracownik():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     assert employee.imie == 'Jan'
+#     assert employee.nazwisko == 'Nowak'
+#     assert employee.stawka == 100.0
+#
+# def test_Employee():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     employee.register_time(5)
+#     assert employee.pay_salary() == 500.0
+#
+# def test_bezgodzin():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     assert employee.pay_salary() == 0.0
+#
+# def test_nadgodziny():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     employee.register_time(10)
+#     assert employee.pay_salary() == 8*100.0 + 2*2*100.0
+#     assert employee.pay_salary() == 1200.0
+#
+# def test_wyplacania():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     employee.register_time(5)
+#     assert employee.pay_salary() == 500.0
+#     assert employee.pay_salary() == 0
+#
+# def test_nadgodziny__kilka_wpisow():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     employee.register_time(5)
+#     employee.register_time(5)
+#     assert employee.pay_salary() == 8*100.0 + 2*2*100.0
+#     assert employee.pay_salary() == 1200.0
