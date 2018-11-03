@@ -53,17 +53,25 @@ class company:
 
     def __init__(self, company):
         self.company = company
+        self.employees = set()
         self.company_size = 0
 
     def add_employee(self, employee):
+        self.employees.add(employee)
         for company in self.company:
             company = set()
             company.add(employee)
-    def company_size(self):
-        self.company_size = len(self.company)
+    def size(self):
+        return self.len(self.employees)
 
     def pay_all_salary(self):
-        pass
+        sum_ = 0
+        for e in self.employess:
+            sum_=+ e.pay_salary
+        return sum
+    def __str__(self):
+        return f"{self.imie} {self.nazwisko}"
+
 
 
     # @classmethod
@@ -71,22 +79,30 @@ class company:
     #      cls.size_company += 1
 
 #Utworz klase comapny ktora inicjaluzuje sie nazwa.
-def test_company():
-    employee = Employee('Jan', 'Nowak', 100.0)
-    employee.register_time(5)
-    google = company('google')
-    google.add_employee(employee)
-    assert google.size() == 1
-    assert
-1
->>>google.pay_all_salary()
-500
->>>google.pay_all_salary()
-0
->>>employee2 = Employee('Krzysztof', 'Nowak', 200.0)
->>>employee.register_time(5)
->>>google.add_employee(empployee)
->>>google.pay_all_salary()
+# def test_company():
+#     employee = Employee('Jan', 'Nowak', 100.0)
+#     employee.register_time(5)
+#     google = company.('google')
+#     google.add_employee(employee)
+#     google.size()
+#     google.pay_all_salary()
+# 500
+#     google.pay_all_salary()
+# 0
+#     employee2 = Employee('Krzysztof', 'Nowak', 200.0)
+#     employee.register_time(5)
+#     google.add_employee(empployee)
+#     google.pay_all_salary()
+# 1000
+# 1
+# >>>google.pay_all_salary()
+# 500
+# >>>google.pay_all_salary()
+# 0
+# >>>employee2 = Employee('Krzysztof', 'Nowak', 200.0)
+# >>>employee.register_time(5)
+# >>>google.add_employee(empployee)
+# >>>google.pay_all_salary()
 1000
 
 
