@@ -1,0 +1,2 @@
+pierwsza linia pliku
+druga linia pliku
